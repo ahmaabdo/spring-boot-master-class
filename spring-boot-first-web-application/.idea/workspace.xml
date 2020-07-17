@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db783b3a-1948-4af4-a944-d3d0318f1f1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/springbootfirstwebapplication/SpringBootFirstWebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/springbootfirstwebapplication/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/springboot/web/springbootfirstwebapplication/SpringBootFirstWebApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eorjY1Fw5KCvQQ8ekM4uIMoYJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.in28minutes.springboot.web.springbootfirstwebapplication.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-boot-1-login-sample-jsp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-boot-1-login-sample-jsp" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootFirstWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-1-login-sample-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.in28minutes.springboot.web.springbootfirstwebapplication.SpringBootFirstWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db783b3a-1948-4af4-a944-d3d0318f1f1f" name="Default Changelist" comment="" />
+      <created>1594998921339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594998921339</updated>
+      <workItem from="1594998927200" duration="13821000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st Step">
+      <created>1594999281425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594999281425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add first jsp with mvc view">
+      <created>1595014098876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595014098877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st Step" />
+    <MESSAGE value="Add first jsp with mvc view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add first jsp with mvc view" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1115" y="-59" key="#Project_Structure" timestamp="1594999297300">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-1115" y="-59" key="#Project_Structure/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1594999297300" />
+    <state width="790" height="300" key="GridCell.Tab.0.bottom" timestamp="1595027555695">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.0.bottom/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555695" />
+    <state width="790" height="300" key="GridCell.Tab.0.center" timestamp="1595027555693">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.0.center/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555693" />
+    <state width="790" height="300" key="GridCell.Tab.0.left" timestamp="1595027555692">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.0.left/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555692" />
+    <state width="790" height="300" key="GridCell.Tab.0.right" timestamp="1595027555694">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.0.right/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555694" />
+    <state width="790" height="300" key="GridCell.Tab.1.bottom" timestamp="1595027555697">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.1.bottom/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555697" />
+    <state width="790" height="300" key="GridCell.Tab.1.center" timestamp="1595027555696">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.1.center/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555696" />
+    <state width="790" height="300" key="GridCell.Tab.1.left" timestamp="1595027555695">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.1.left/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555695" />
+    <state width="790" height="300" key="GridCell.Tab.1.right" timestamp="1595027555697">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="790" height="300" key="GridCell.Tab.1.right/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595027555697" />
+    <state x="-1003" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595014100212">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-1003" y="96" key="Vcs.Push.Dialog.v2/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595014100212" />
+    <state x="-928" y="-32" width="596" height="783" key="find.popup" timestamp="1595004467247">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-928" y="-32" width="596" height="783" key="find.popup/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595004467247" />
+    <state x="-965" y="61" width="670" height="676" key="search.everywhere.popup" timestamp="1595013927366">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-965" y="61" width="670" height="676" key="search.everywhere.popup/-1920.-180.1920.1080/0.0.1440.900@-1920.-180.1920.1080" timestamp="1595013927366" />
+  </component>
+</project>
