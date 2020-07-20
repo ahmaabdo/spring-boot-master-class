@@ -124,7 +124,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
-import com.in28minutes.springboot.web.service.LoginService;
+import LoginService;
 
 @Controller
 @SessionAttributes("name")
@@ -172,8 +172,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
-import com.in28minutes.springboot.web.service.LoginService;
-import com.in28minutes.springboot.web.service.TodoService;
+import TodoService;
 
 @Controller
 @SessionAttributes("name")
@@ -335,7 +334,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.in28minutes.springboot.web.model.Todo;
+import Todo;
 
 @Service
 public class TodoService {
@@ -542,7 +541,7 @@ Component, Service, Repository, Controller
 Autowired
 ComponentScan
 
-Field dummyService in com.in28minutes.springboot.web.controller.LoginController 
+Field dummyService in LoginController 
 required a bean of type 'com.in28minutes.dummy.DummyService' 
 that could not be found.
 

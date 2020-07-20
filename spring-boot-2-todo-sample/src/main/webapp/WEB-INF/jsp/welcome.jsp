@@ -1,12 +1,11 @@
 <html>
-<head>
-    <title>Login - First Web Application</title>
-</head>
-<body>
-Hello world
-<br>
-Welcome ${name}
-<a href="/list-todos">Click here to manage your todos</a>
 
+<head>
+<title>First Web Application</title>
+</head>
+
+<body>
+	Welcome ${name}!! <a href="/list-todos">Click here</a> to manage your todo's.
 </body>
+
 </html>
