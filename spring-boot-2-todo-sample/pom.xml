@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.in28minutes.springboot.web</groupId>
-    <artifactId>spring-boot-first-web-application</artifactId>
+    <artifactId>spring-boot-2-todo-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-first-web-application</name>
+    <name>spring-boot-2-todo-sample</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -22,6 +22,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
         <dependency>
